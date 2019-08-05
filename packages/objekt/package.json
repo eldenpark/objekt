@@ -1,8 +1,6 @@
 {
   "author": "Elden S. Park",
-  "dependencies": {},
   "description": "Description will be given soon.",
-  "devDependencies": {},
   "directories": {
     "lib": "lib"
   },
@@ -24,5 +22,5 @@
     "gulp": "gulp --gulpfile ./internals/gulp/gulpfile.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
