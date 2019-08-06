@@ -29,4 +29,10 @@ try {
   log(err);
 }
 
+try {
+  requireNonEmpty(null);
+} catch (err) {
+  log(err);
+}
+
 log('end sandbox...');
